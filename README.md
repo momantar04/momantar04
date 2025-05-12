@@ -1,4 +1,4 @@
-[![github-header-image](https://github.com/user-attachments/assets/4e6be9c1-bd88-4932-9423-ffa4e198a6b7)])
+![github-header-image](https://github.com/user-attachments/assets/4e6be9c1-bd88-4932-9423-ffa4e198a6b7)
 <h1 align="center"> *🌠 Navigating the skies of code & the physics of flight.*
 
 <h1 align="center">Hi 👋, I'm MOMANTAR KARMAKAR UPTI</h1>
